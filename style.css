@@ -1,0 +1,19 @@
+.sblog{
+    background-color: aqua;
+}
+
+.cblog{
+        background-color: pink;
+}
+span{
+    color:blue;
+}
+div{
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    margin: 40px 15px 60px;
+    padding: 20px;
+}
+.blog_title{
+    text-align: center;
+}
